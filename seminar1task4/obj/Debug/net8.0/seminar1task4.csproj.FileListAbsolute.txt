@@ -1,0 +1,14 @@
+C:\learn\start_program\gblearn\seminar1task4\bin\Debug\net8.0\seminar1task4.exe
+C:\learn\start_program\gblearn\seminar1task4\bin\Debug\net8.0\seminar1task4.deps.json
+C:\learn\start_program\gblearn\seminar1task4\bin\Debug\net8.0\seminar1task4.runtimeconfig.json
+C:\learn\start_program\gblearn\seminar1task4\bin\Debug\net8.0\seminar1task4.dll
+C:\learn\start_program\gblearn\seminar1task4\bin\Debug\net8.0\seminar1task4.pdb
+C:\learn\start_program\gblearn\seminar1task4\obj\Debug\net8.0\seminar1task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\learn\start_program\gblearn\seminar1task4\obj\Debug\net8.0\seminar1task4.AssemblyInfoInputs.cache
+C:\learn\start_program\gblearn\seminar1task4\obj\Debug\net8.0\seminar1task4.AssemblyInfo.cs
+C:\learn\start_program\gblearn\seminar1task4\obj\Debug\net8.0\seminar1task4.csproj.CoreCompileInputs.cache
+C:\learn\start_program\gblearn\seminar1task4\obj\Debug\net8.0\seminar1task4.dll
+C:\learn\start_program\gblearn\seminar1task4\obj\Debug\net8.0\refint\seminar1task4.dll
+C:\learn\start_program\gblearn\seminar1task4\obj\Debug\net8.0\seminar1task4.pdb
+C:\learn\start_program\gblearn\seminar1task4\obj\Debug\net8.0\seminar1task4.genruntimeconfig.cache
+C:\learn\start_program\gblearn\seminar1task4\obj\Debug\net8.0\ref\seminar1task4.dll
