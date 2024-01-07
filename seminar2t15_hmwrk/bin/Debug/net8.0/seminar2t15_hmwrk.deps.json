@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "seminar2t15_hmwrk/1.0.0": {
+        "runtime": {
+          "seminar2t15_hmwrk.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "seminar2t15_hmwrk/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

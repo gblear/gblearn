@@ -1,0 +1,15 @@
+C:\learn\start_program\gblearn\seminar2t11\bin\Debug\net8.0\seminar2t11.exe
+C:\learn\start_program\gblearn\seminar2t11\bin\Debug\net8.0\seminar2t11.deps.json
+C:\learn\start_program\gblearn\seminar2t11\bin\Debug\net8.0\seminar2t11.runtimeconfig.json
+C:\learn\start_program\gblearn\seminar2t11\bin\Debug\net8.0\seminar2t11.dll
+C:\learn\start_program\gblearn\seminar2t11\bin\Debug\net8.0\seminar2t11.pdb
+C:\learn\start_program\gblearn\seminar2t11\obj\Debug\net8.0\seminar2t11.GeneratedMSBuildEditorConfig.editorconfig
+C:\learn\start_program\gblearn\seminar2t11\obj\Debug\net8.0\seminar2t11.AssemblyInfoInputs.cache
+C:\learn\start_program\gblearn\seminar2t11\obj\Debug\net8.0\seminar2t11.AssemblyInfo.cs
+C:\learn\start_program\gblearn\seminar2t11\obj\Debug\net8.0\seminar2t11.csproj.CoreCompileInputs.cache
+C:\learn\start_program\gblearn\seminar2t11\obj\Debug\net8.0\seminar2t11.sourcelink.json
+C:\learn\start_program\gblearn\seminar2t11\obj\Debug\net8.0\seminar2t11.dll
+C:\learn\start_program\gblearn\seminar2t11\obj\Debug\net8.0\refint\seminar2t11.dll
+C:\learn\start_program\gblearn\seminar2t11\obj\Debug\net8.0\seminar2t11.pdb
+C:\learn\start_program\gblearn\seminar2t11\obj\Debug\net8.0\seminar2t11.genruntimeconfig.cache
+C:\learn\start_program\gblearn\seminar2t11\obj\Debug\net8.0\ref\seminar2t11.dll

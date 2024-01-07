@@ -1,0 +1,15 @@
+C:\learn\start_program\gblearn\seminar2t13_hmwrk\bin\Debug\net8.0\seminar2t13_hmwrk.exe
+C:\learn\start_program\gblearn\seminar2t13_hmwrk\bin\Debug\net8.0\seminar2t13_hmwrk.deps.json
+C:\learn\start_program\gblearn\seminar2t13_hmwrk\bin\Debug\net8.0\seminar2t13_hmwrk.runtimeconfig.json
+C:\learn\start_program\gblearn\seminar2t13_hmwrk\bin\Debug\net8.0\seminar2t13_hmwrk.dll
+C:\learn\start_program\gblearn\seminar2t13_hmwrk\bin\Debug\net8.0\seminar2t13_hmwrk.pdb
+C:\learn\start_program\gblearn\seminar2t13_hmwrk\obj\Debug\net8.0\seminar2t13_hmwrk.GeneratedMSBuildEditorConfig.editorconfig
+C:\learn\start_program\gblearn\seminar2t13_hmwrk\obj\Debug\net8.0\seminar2t13_hmwrk.AssemblyInfoInputs.cache
+C:\learn\start_program\gblearn\seminar2t13_hmwrk\obj\Debug\net8.0\seminar2t13_hmwrk.AssemblyInfo.cs
+C:\learn\start_program\gblearn\seminar2t13_hmwrk\obj\Debug\net8.0\seminar2t13_hmwrk.csproj.CoreCompileInputs.cache
+C:\learn\start_program\gblearn\seminar2t13_hmwrk\obj\Debug\net8.0\seminar2t13_hmwrk.sourcelink.json
+C:\learn\start_program\gblearn\seminar2t13_hmwrk\obj\Debug\net8.0\seminar2t13_hmwrk.dll
+C:\learn\start_program\gblearn\seminar2t13_hmwrk\obj\Debug\net8.0\refint\seminar2t13_hmwrk.dll
+C:\learn\start_program\gblearn\seminar2t13_hmwrk\obj\Debug\net8.0\seminar2t13_hmwrk.pdb
+C:\learn\start_program\gblearn\seminar2t13_hmwrk\obj\Debug\net8.0\seminar2t13_hmwrk.genruntimeconfig.cache
+C:\learn\start_program\gblearn\seminar2t13_hmwrk\obj\Debug\net8.0\ref\seminar2t13_hmwrk.dll
